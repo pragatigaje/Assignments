@@ -1,4 +1,4 @@
-# Assignments
+# Assignments No 1 - OOPJ
 
 01. Write a program that takes user’s name as command line argument and prints
 Welcome <entered user name>.
